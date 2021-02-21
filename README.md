@@ -1,4 +1,4 @@
-<img src=".\images\python-logo-generic.svg" width="24%"> <img src=".\images\pandas.svg" width="28%"> <img src=".\images\numpylogo.svg" width="20%">   <img src=".\images\Jupyter_logo.svg" width="30%">
+<img src=".\images\python-logo-generic.svg" width="24%"> <img src=".\images\pandas.svg" width="28%"> <img src=".\images\numpylogo.svg" width="20%">
 
 # Содержание репозитория
 
