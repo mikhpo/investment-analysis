@@ -14,7 +14,7 @@
 
     venv\Scripts\activate
 
-Все зависимости зафиксированы в requirements.txt. Для установки зависимостей наберите команду:
+Все зависимости зафиксированы в `requirements.txt`. Для установки зависимостей наберите команду:
 
     pip install -r requirements.txt
     
