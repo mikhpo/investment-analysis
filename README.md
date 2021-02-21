@@ -1,3 +1,7 @@
+<img src=".\images\python-logo-generic.svg" width="12%">
+<img src=".\images\pandas.svg" width="14%">
+<img src=".\images\numpylogo.svg" width="10%">
+
 # Содержание репозитория
 
 В репозитории содержится скрипт на Python в формате Jupyter ноутбука - `portfolio_optimization.ipynb`, в котором реализован метод Шарпа для портфельной оптимизации двумя способами:
